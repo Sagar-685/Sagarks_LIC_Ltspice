@@ -45,7 +45,8 @@ Gate Voltage: 0.6V .
 
 ![exp1_circuitdiagram](https://github.com/user-attachments/assets/46fb5c13-9adc-42b4-94d5-b56f84276bb6)
 
-![exp1_values](https://github.com/user-attachments/assets/1c121c0e-6d5a-4915-aa0c-0b1484091df0)
+![image](https://github.com/user-attachments/assets/0565a976-9763-4c96-847c-6ca044e5edd7)
+
 
 
 ### **➤ Transient Analysis**  
@@ -98,7 +99,8 @@ Drain Current (Id): 27.75uA.
 
 ![exp1_nmos_pmos_transient](https://github.com/user-attachments/assets/686f8b8b-fc07-4f60-9079-ab72ae7b4b80)
 
-![nmos_pmos_values](https://github.com/user-attachments/assets/0c388573-2f4a-4fbf-939e-00a55dc48d2f)
+![image](https://github.com/user-attachments/assets/f349669a-547d-4688-b52b-43d3606768b6)
+
 ### **➤ AC Analysis**  
 
 AC analysis performed by fixing some values :

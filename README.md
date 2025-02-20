@@ -87,7 +87,8 @@ Now before performing the analysis voltages has been set in the circuit such tha
 VDD: 1.8V ,
 VG (NMOS): 0.9V ,
 VG (PMOS): 0.9V.
-![nmos_pmos_circuit_diagram](https://github.com/user-attachments/assets/f834c8ad-4f7d-47fe-95d1-1a34f19abbad)
+![image](https://github.com/user-attachments/assets/c7ad8f6b-a665-4723-be33-c4f2c68ab450)
+
 
 
 
@@ -115,7 +116,7 @@ for which following results is obtained :
 ![pmos_nmos_ac_analysis](https://github.com/user-attachments/assets/20dcdfd3-5d61-4561-8877-86aeb0e8d4ac)
 
 
-## **5. Conclusion**  
+## **5. Inference **  
 
 This report analyzed the Common Source (CS) Amplifier using two configurations:  
 1. Resistor Load 

@@ -76,9 +76,9 @@ Gain = (Vout / Vin) = ((1.87 - 1.85) / 100m) = 1.12
 ```
 Maximum input swing = 750mV
 Beyond this, output peak starts clipping.
-![image](https://github.com/user-attachments/assets/5647f7ee-6d36-4131-8d88-9ac48bf48f15)
 
 ```
+![image](https://github.com/user-attachments/assets/5647f7ee-6d36-4131-8d88-9ac48bf48f15)
 
 #### **Max Output Swing** :- it the maximum voltage range that an amplifier or circuit can output without distortion.
 

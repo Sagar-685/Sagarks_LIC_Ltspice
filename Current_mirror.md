@@ -112,8 +112,7 @@ Vin = 0.816V
 
 ### **Transient Analysis**
 ```plaintext
-Expected gain = -10V/V
-Obtained gain = -10.3737V/V
+Obtained gain = 10.3737V/V
 ```
 ![Screenshot 2025-04-03 235357](https://github.com/user-attachments/assets/d716d812-7bf2-42af-b76b-52fee7afd7ea)
 
@@ -142,8 +141,7 @@ M3: 5.8um / 180nm
 
 ### **Transient Analysis and AC Response**
 ```plaintext
-Expected gain: -10V/V
-Obtained gain: -12.1326V/V
+Obtained gain: 12.1326V/V
 
 Obtained gain (dB): 24.306 dB
 
